@@ -1,6 +1,7 @@
 ## Mira el proyecto aquí
 [Mirar](https://desafio4-modulo7.vercel.app/)
-La base de datos de componentes ya no tienen soporte por parte de Firebase, por lo cual no se pueden ingresar nuevos usuarios.
+
+Ojo, Firebase ya no ofrece soporte para este sitio y no se pueden ingresar nuevos usuarios, aun así te invito a mirar el código si quieres.
 
 # desafio4
 <h1> Integrantes; </h1>
